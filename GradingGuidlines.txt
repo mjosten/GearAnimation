@@ -1,0 +1,30 @@
+The Mechanism             25 points
+     6 Gears
+     4 Gear Designs
+     Shiny Metal Highlights
+
+Assembly/Connectivity     15 points
+
+Animation of Gears        15 points
+    Animation speeds 
+    Gears turn in opposite directions
+
+The Camera Movement  15 points
+    Not too fast, not too slow
+    Path varies across all 3 dimensions
+
+Duration (15 second minimum)   10 points
+
+Looping Feature  (automatically restarts)   5 points
+
+Slower/Faster Feature (interactive speed control)   5 points
+
+Initial Darkness turns to Light  5 points
+
+Frustum Projection  5 points
+
+----------------------------------------------
+
+In some cases, I may need to modify this grading 
+scheme if the grade as computed above doesn't fairly 
+reflect the quality of the animation.
